@@ -1,1 +1,1 @@
-# PYNQ to Zedboard
+# PYNQ OS on ZedBoard
